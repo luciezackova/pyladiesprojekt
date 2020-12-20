@@ -12,8 +12,8 @@ Aplikace využívá knihovnu [Pyglet](https://github.com/pyglet/pyglet)
 >`pip install pyglet`
 
 ### Pravidla hry
-* Hrací pole má 10x10 dílků
-* Jeden dílek má 42 pixelů
+* Hrací pole má 13x10 dílků
+* Jeden dílek má 48 pixelů
 * Had se ovládá šipkami
 * Vyjetí mimo hrací plochu ukončí hru
 * Kousntí do sebe sama ukončí hru
@@ -22,6 +22,6 @@ Aplikace využívá knihovnu [Pyglet](https://github.com/pyglet/pyglet)
 * Po ukonční hry se v shellu zobrazí dosažené skóre
 
 ### Poznámky
-Ve složce `food` je možné jídlo měnit, přidvat a mazat.
+Ve složce `food` je možné jídlo měnit, přidávat a mazat.
 
 Během hry se v shellu zobrazují pomocné informace o aktuálním umístění jednotlivých objektů na hrací ploše.

@@ -4,7 +4,7 @@ import random
 import os
 
 # 1.1 Velikost grafických objektů
-size = 42
+size = 48
 
 # 1.2 Cesta k obrázkům
 snake_images_path = Path("snake")
