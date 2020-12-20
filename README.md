@@ -4,5 +4,5 @@
 
 Zadání: https://naucse.python.cz/2020/pyladies-ostrava-podzim/projects/snake/
 
-Instalace
-> pip install pyglet
+### Instalace:
+>`pip install pyglet`
