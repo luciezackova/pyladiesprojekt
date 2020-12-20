@@ -11,7 +11,7 @@ Zadání: https://naucse.python.cz/2020/pyladies-ostrava-podzim/projects/snake/
 Nastavení Virtul Environment
 >`python -m venv venv`
 
-Spuštění Virtul Environment
+Spuštění Virtul Environment (Windows)
 >`venv\Scripts\activate`
 
 Aplikace využívá knihovnu [Pyglet](https://github.com/pyglet/pyglet)
