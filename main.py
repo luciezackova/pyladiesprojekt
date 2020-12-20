@@ -7,7 +7,7 @@ import os
 size = 42
 
 # 1.2 Cesta k obrázkům
-snake_images_path = Path("snake-tiles")
+snake_images_path = Path("snake")
 food_images_path = Path("foods")
 poo_images_path = Path("poo/poop.png")
 
