@@ -1,3 +1,1 @@
-# pyladies-projekt
-# pyladiesprojekt
 # pyladiesprojekt
