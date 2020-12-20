@@ -7,7 +7,7 @@ Zadání: https://naucse.python.cz/2020/pyladies-ostrava-podzim/projects/snake/
 ### Požadavky
 * Tento projekt byl vytvořen pomocí Python 3.9.0
 
-### Instalace:
+### Instalace
 >`pip install pyglet`
 
 ### Pravidla hry
@@ -20,7 +20,7 @@ Zadání: https://naucse.python.cz/2020/pyladies-ostrava-podzim/projects/snake/
 * Spapání hovínka ukončí hru
 * Po ukonční hry se v shellu zobrazí dosažené skóre
 
----
+### Poznámky
 Ve složce `food` je možné jídlo měnit, přidvat a mazat.
 
 Během hry se v shellu zobrazují pomocné informace o aktuálním umístění jednotlivých objektů na hrací ploše.
