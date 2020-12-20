@@ -16,3 +16,5 @@ Zadání: https://naucse.python.cz/2020/pyladies-ostrava-podzim/projects/snake/
 * Po spapání tří jídel had vykaká hovínko
 * Spapání hovínka ukončí hru
 * Po ukonční hry se v shellu zobrazí dosažené skóre
+
+Ve složce `food` je možné jídlo měnit, přidvat a mazat.
