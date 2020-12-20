@@ -8,8 +8,12 @@ Zadání: https://naucse.python.cz/2020/pyladies-ostrava-podzim/projects/snake/
 * Tento projekt byl vytvořen pomocí Python 3.9.0
 
 ### Instalace
-Nastaveni Virtul Environment
+Nastavení Virtul Environment
 >`python -m venv venv`
+
+Spuštění Virtul Environment
+>`venv\Scripts\activate`
+
 Aplikace využívá knihovnu [Pyglet](https://github.com/pyglet/pyglet)
 >`pip install pyglet`
 
