@@ -8,14 +8,14 @@ size = 42
 
 # 1.2 Cesta k obrázkům
 snake_images_path = Path("snake")
-food_images_path = Path("foods")
+food_images_path = Path("food")
 poo_images_path = Path("poo/poop.png")
 
 # 1.3 Načtení obrázků jídla
 files = os.listdir(food_images_path)
 food_list = []
 for i in files:
-    food_list.append(pyglet.image.load("foods/" + i))
+    food_list.append(pyglet.image.load("food/" + i))
 
 # 1.4 Načtení obrázku hovínka
 poo_image = pyglet.image.load(poo_images_path)
